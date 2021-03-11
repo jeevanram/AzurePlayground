@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoAzureFunctionApp", "DemoAzureFunctionApp\DemoAzureFunctionApp.csproj", "{99396C8E-2631-47CA-98D5-6F3974228F67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoAzureFunctionAppTest", "DemoAzureFunctionAppTest\DemoAzureFunctionAppTest.csproj", "{392812AD-674A-4AC8-B12A-088F4E2B6362}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99396C8E-2631-47CA-98D5-6F3974228F67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99396C8E-2631-47CA-98D5-6F3974228F67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99396C8E-2631-47CA-98D5-6F3974228F67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99396C8E-2631-47CA-98D5-6F3974228F67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{392812AD-674A-4AC8-B12A-088F4E2B6362}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{392812AD-674A-4AC8-B12A-088F4E2B6362}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{392812AD-674A-4AC8-B12A-088F4E2B6362}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{392812AD-674A-4AC8-B12A-088F4E2B6362}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C1AC4DD-2A06-4695-BC90-C62A2E62889B}
+	EndGlobalSection
+EndGlobal
